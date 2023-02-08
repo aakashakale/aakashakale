@@ -2,11 +2,14 @@
 <h1 align="center">Hi 👋, I'm Akash Kale</h1>
 <h3 align="center">I'm passionate About DevOps </h3>
 <br><br>Brief intro about me:<br><br>
-My Tech life started almost 6.3 years ago. Transitioned from Technical Support Engineer  -->  Network Support Engineer --> DevOps Engineer
-<br>I love automation, coding, problem-solving and learning new skills and implementing them to solve different challenges.<br><br> 
+
+ My Tech life started almost 6.3 years ago. Transitioned from Technical Support Engineer -->  Network Support Engineer --> DevOps Engineer
+ 
+ I love automation, coding, problem-solving and learning new skills and implement them to solve different challenges.
+ 
 
 📫 How to reach me aakashkale112@gmail.com<br><br> 
-⚡ Fun fact I Love Watching Football Match<br>
+⚡ Fun fact I Love Watching Football<br>
 
 
 
@@ -29,11 +32,14 @@ My Tech life started almost 6.3 years ago. Transitioned from Technical Support E
 
 
 
+  ---
+
 
 
 - Below are the repositories that I used throughout my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `GitLab`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
 
- | Repository Name | Description  |
+
+  | Repository Name | Description  |
   | ------ | ------ |
   | [AWS_DevOps_Projects](https://github.com/aakashakale/AWS_DevOps_Projetcs) | DevOps projects using AWS |
   | [Jenkins-Workshop](https://github.com/aakashakale/JenkinsPipelineDemo) | Jenkins |
@@ -44,9 +50,12 @@ My Tech life started almost 6.3 years ago. Transitioned from Technical Support E
   | [Time-tracker Project](https://github.com/aakashakale/time-tracker) | time-tracker |
   | [Learning Terraform-Workshop](https://github.com/aakashakale/learning-terraform) | Terraform Learning |
   
+ ---
   
-  ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=aakashkale112&icon=5&color=1)](https://visitcount.itsvg.in)
+   ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+  
+   ---
+  
+  [![](https://visitcount.itsvg.in/api?id=aakashkale112&icon=5&color=1)](https://visitcount.itsvg.in)
+  
