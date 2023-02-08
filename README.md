@@ -32,3 +32,18 @@ My Tech life started almost 6.3 years ago. Transitioned from `Technical Support 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aakashkale112&icon=5&color=1)](https://visitcount.itsvg.in)
+
+- Below are the repositories that I used throughout my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `GitLab`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
+
+ | Repository Name | Description  |
+  | ------ | ------ |
+  | [AWS_DevOps_Projects](https://github.com/aakashakale/AWS_DevOps_Projetcs) | DevOps projects using AWS |
+  | [Jenkins-Workshop](https://github.com/aakashakale/JenkinsPipelineDemo) | Jenkins |
+  | [Terraform_Workshop](https://github.com/aakashakale/Terraform_withcontainers) | Terraform |
+  | [Linux-Workshop](https://github.com/aakashakale/RHCSA) | Linux |
+  | [Git_Workshop](https://github.com/aakashakale/GIT-Hands-On) | Git |
+  | [SampleWebapp-Project](https://github.com/aakashakale/SampleWebApp) | SampleWebApp |
+  | [Time-tracker Project](https://github.com/aakashakale/time-tracker) | time-tracker |
+  | [Learning Terraform-Workshop](https://github.com/aakashakale/learning-terraform) | Terraform Learning |
+  
+  
