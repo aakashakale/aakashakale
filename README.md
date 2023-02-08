@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kale</h1>
 <h3 align="center">I'm passionate About DevOps </h3>
 <br><br>Brief intro about me:<br><br>
-My Tech life started almost 6.3 years ago. Transitioned from `Technical Support Engineer`  -->  `Network Support Engineer` --> `DevOps Engineer`
+My Tech life started almost 6.3 years ago. Transitioned from Technical Support Engineer  -->  Network Support Engineer --> DevOps Engineer
 <br>I love automation, coding, problem-solving and learning new skills and implementing them to solve different challenges.<br><br> 
 
 📫 How to reach me aakashkale112@gmail.com<br><br> 
@@ -27,11 +27,9 @@ My Tech life started almost 6.3 years ago. Transitioned from `Technical Support 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aakashkale112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=aakashkale112&icon=5&color=1)](https://visitcount.itsvg.in)
+
+
 
 - Below are the repositories that I used throughout my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `GitLab`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
 
@@ -47,3 +45,8 @@ My Tech life started almost 6.3 years ago. Transitioned from `Technical Support 
   | [Learning Terraform-Workshop](https://github.com/aakashakale/learning-terraform) | Terraform Learning |
   
   
+  ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aakashkale112&icon=5&color=1)](https://visitcount.itsvg.in)
